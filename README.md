@@ -1,19 +1,19 @@
 # TODO
 
-# Client Side
+# Single page application
 - Basic auth with id/pass
 - IdP - access/refresh token
 
-# Server Side
+# Server side rendering
 - Cookie based JWT sessions
 
 # Basic auth with id/pass
-- Create pages
-  - home
-  - protected app
-  - login
-  - register
-- Setup routing
-- Setup Express API server
-- Use bcrypt to encrypt the database entries
-- Save values to a local database
+- [x] Create pages
+  - [x] home
+  - [x] protected app
+  - [x] login
+  - [x] register
+- [x] Setup routing
+- [ ] Setup Express API server
+- [ ] Use bcrypt to encrypt the database entries
+- [ ] Save values to a local database
